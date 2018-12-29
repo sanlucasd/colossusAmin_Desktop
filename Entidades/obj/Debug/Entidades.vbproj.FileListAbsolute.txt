@@ -1,0 +1,16 @@
+C:\Users\User\Dropbox\ColossusAdministracion_DesktopCli\Entidades\bin\Debug\Entidades.dll
+C:\Users\User\Dropbox\ColossusAdministracion_DesktopCli\Entidades\bin\Debug\Entidades.pdb
+C:\Users\User\Dropbox\ColossusAdministracion_DesktopCli\Entidades\bin\Debug\Entidades.xml
+C:\Users\User\Dropbox\ColossusAdministracion_DesktopCli\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\User\Dropbox\ColossusAdministracion_DesktopCli\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\User\Dropbox\ColossusAdministracion_DesktopCli\Entidades\obj\Debug\Entidades.dll
+C:\Users\User\Dropbox\ColossusAdministracion_DesktopCli\Entidades\obj\Debug\Entidades.xml
+C:\Users\User\Dropbox\ColossusAdministracion_DesktopCli\Entidades\obj\Debug\Entidades.pdb
+C:\Users\InformaticaSL\Dropbox\ColossusAdministracion_DesktopCli\Entidades\bin\Debug\Entidades.dll
+C:\Users\InformaticaSL\Dropbox\ColossusAdministracion_DesktopCli\Entidades\bin\Debug\Entidades.pdb
+C:\Users\InformaticaSL\Dropbox\ColossusAdministracion_DesktopCli\Entidades\bin\Debug\Entidades.xml
+C:\Users\InformaticaSL\Dropbox\ColossusAdministracion_DesktopCli\Entidades\obj\Debug\Entidades.Resources.resources
+C:\Users\InformaticaSL\Dropbox\ColossusAdministracion_DesktopCli\Entidades\obj\Debug\Entidades.vbproj.GenerateResource.Cache
+C:\Users\InformaticaSL\Dropbox\ColossusAdministracion_DesktopCli\Entidades\obj\Debug\Entidades.dll
+C:\Users\InformaticaSL\Dropbox\ColossusAdministracion_DesktopCli\Entidades\obj\Debug\Entidades.xml
+C:\Users\InformaticaSL\Dropbox\ColossusAdministracion_DesktopCli\Entidades\obj\Debug\Entidades.pdb
